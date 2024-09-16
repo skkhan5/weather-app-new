@@ -1,4 +1,4 @@
-import "./InfoBox.css"
+import "./Infobox.css"
 export default function InfoBox({info}){
   
     return(
