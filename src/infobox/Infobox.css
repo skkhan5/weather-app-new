@@ -1,0 +1,15 @@
+.infobox{
+    margin-top: 20px;
+    height: 300px;
+    width: 350px;
+    text-align:center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.infobox p{
+    margin-top: 10px;
+    font-size: medium;
+}
+.infobox h1{
+    margin-top: 0px;
+}
