@@ -7,7 +7,7 @@ body{
 
     height: 100vh;
     background-color: rgb(206, 154, 255);
-    background-image: url(/public/uu.avif);
+    background-image: url(uu.avif);
     background-repeat: no-repeat;
     background-size: 1400px 700px;
    
