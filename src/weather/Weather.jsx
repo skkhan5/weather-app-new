@@ -1,5 +1,5 @@
 import { useState } from "react"
-import InfoBox from "../infobox/Infobox"
+import Infobox from "../infobox/Infobox"
 import SearchBox from "../searchbox/SearchBox"
 import "./Weather.css"
 
@@ -21,7 +21,7 @@ let updateInfo =(newInfo)=>{
         <div className="weather">
             <h1> Today Weather</h1>
             <SearchBox updateInfo={updateInfo}/>
-            <InfoBox info={weatherinfo}/>
+            <Infobox info={weatherinfo}/>
 
 
         </div>

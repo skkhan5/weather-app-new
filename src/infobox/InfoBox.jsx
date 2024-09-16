@@ -1,5 +1,5 @@
 import "./Infobox.css"
-export default function InfoBox({info}){
+export default function Infobox({info}){
   
     return(
         <div  className="infobox flex-wrap py-8  bg-purple-400  bg-gradient-to-r from-cyan-500 to-blue-500 ">
