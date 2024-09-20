@@ -37,7 +37,7 @@ export default function searchBox({updateInfo}){
       updateInfo(newInfo)
     }
 return(
-    <form className="searchbox flex-wrap bg-gradient-to-r from-cyan-500 to-blue-500" onSubmit={handlesubmit}>
+    <form className="searchbox flex-wrap gap-3 bg-gradient-to-r from-cyan-500 to-blue-500" onSubmit={handlesubmit}>
         <br />
    <label htmlFor="City">"Weather App"</label>
    <br />
